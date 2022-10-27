@@ -1,0 +1,22 @@
+TO BE ADDED IN A DOCUMENATION PDF:
+----------------------------------
+
+DATA
+
+- Processing details of different variables 
+    - A lot can be copied from metadata
+- Names and content of files (with dois of originals)
+- Names, description of (new) fields
+- Reference to Sundfjord 2020
+
+CAUTIONARY NOTES
+
+- Stress the limitation of water mass boxes
+- Stress that additional editing may have to be applied
+- Stress that N2 may have to be recaclulated after editing/smoothing
+
+(can repeat some stuff from the WM document)
+
+CONTACT INFO
+
+
