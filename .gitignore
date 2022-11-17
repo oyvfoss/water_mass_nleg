@@ -1,2 +1,5 @@
 ctd_data/*.nc
 code/.ipynb_checkpoints
+code/doreen
+ctd_data/NLEG/CTDs_NLEG_AUG_2018.nc
+ctd_data/NLEG/CTDs_NLEG_Q3_2019.nc
